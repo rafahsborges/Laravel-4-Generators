@@ -1,11 +1,11 @@
 {
-    "name": "oscarafdev/laravel-4-generators",
+    "name": "rafahsborges/laravel-4-generators",
     "description": "Rapidly generate resources, migrations, models, and much more.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Oscar Fernandez",
-            "email": "oscarafdev@gmail.com"
+            "name": "Rafah S Borges",
+            "email": "rafahsborges@outlook.com"
         }
     ],
     "require": {
