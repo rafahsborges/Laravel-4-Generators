@@ -1,7 +1,5 @@
 # Fast Workflow in Laravel With Custom Generators
 
-[![Build Status](https://travis-ci.org/JeffreyWay/Laravel-4-Generators.png?branch=master)](https://travis-ci.org/JeffreyWay/Laravel-4-Generators)
-
 This Laravel package provides a variety of generators to speed up your development process. These generators include:
 
 - `generate:model`
@@ -15,10 +13,7 @@ This Laravel package provides a variety of generators to speed up your developme
 
 ## Installation
 
-> [Want a 5-minute video overview?](https://dl.dropboxusercontent.com/u/774859/Work/Laravel-4-Generators/Get-Started-With-Laravel-Custom-Generators.mp4)
-
-
-## Laravel 4.2 and Below
+## Laravel 10
 
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `way/generators`.
 
